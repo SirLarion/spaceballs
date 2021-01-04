@@ -1,0 +1,24 @@
+16:57:53: Creating resource group General
+16:57:53: Creating resource group OgreInternal
+16:57:53: Creating resource group OgreAutodetect
+16:57:53: Registering ResourceManager for type Material
+16:57:53: Registering ResourceManager for type Skeleton
+16:57:53: Registering ResourceManager for type Mesh
+16:57:53: MeshSerializer writing mesh data to stream Text.mesh...
+16:57:53: File header written.
+16:57:53: Writing mesh data...
+16:57:53: Writing submesh...
+16:57:53: Exporting submesh texture aliases...
+16:57:53: Submesh texture aliases exported.
+16:57:53: Submesh exported.
+16:57:53: Exporting bounds information....
+16:57:53: Bounds information exported.
+16:57:53: Exporting submesh name table...
+16:57:53: Submesh name table exported.
+16:57:53: Exporting edge lists...
+16:57:53: Edge lists exported
+16:57:53: Mesh data exported.
+16:57:53: MeshSerializer export successful.
+16:57:53: Unregistering ResourceManager for type Mesh
+16:57:53: Unregistering ResourceManager for type Skeleton
+16:57:53: Unregistering ResourceManager for type Material
