@@ -17,10 +17,15 @@ bash install.sh
 - Skripti lataa Ogren, asentaa sen ja sen jälkeen asentaa Spaceballsin (Tässä menee hetki)
 (Vaihtoehtoisesti voit syöttää asennusskriptin komennot itse)
 
-### Linux
+#### Linux
 - Nyt projektin voi buildata ajamalla 'make' komento build-kansiossa
 
-### Windows
+#### Windows
 - Avaa build-kansiossa oleva spaceballs.sln tiedosto Visual Studiossa
 - Buildaa painamalla CTRL+SHIFT+B tai oikeaklikaamalla solutionia oikealla ja valitsemalla "Build solution"
 
+### Credits
+Alunperin mukana devaamassa:
+Aleksi Pietarinen
+Jaakko Pentinsaari
+Nikita Kallio
