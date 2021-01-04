@@ -1,15 +1,15 @@
 # Spaceballs / Avaruusbiljardi
 
-Painovoimaton 3D-biljardipeli ELEC-A7151 kurssin projektityönä.
+Painovoimaton 3D-biljardipeli Aalto Yliopiston ELEC-A7151 (Object oriented programming with C++) kurssin projektityönä.
 
 
 ### Asennus
 
-- Lataa other-2020-4 repositorio
-- Siirry lähdekoodikansioon src/ ja aja asennusskripti (Windowsilla vaatii Git Bashin)
+- Lataa spaceballs repositorio
+- Siirry spaceballs/ kansioon ja aja asennusskripti (Windowsilla vaatii Git Bashin)
 
 ```
-cd other-2020-4/src
+cd spaceballs
 ```
 ```
 bash install.sh
