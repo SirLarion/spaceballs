@@ -2,6 +2,7 @@
 
 Painovoimaton 3D-biljardipeli Aalto Yliopiston ELEC-A7151 (Object oriented programming with C++) kurssin projektityönä.
 
+<img src=aimball.png></img>
 
 ### Asennus
 
