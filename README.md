@@ -25,7 +25,7 @@ bash install.sh
 - Buildaa painamalla CTRL+SHIFT+B tai oikeaklikaamalla solutionia oikealla ja valitsemalla "Build solution"
 
 ### Credits
-Alunperin mukana devaamassa:
+Alunperin myös mukana devaamassa:
 - Aleksi Pietarinen
 - Jaakko Pentinsaari
 - Nikita Kallio
