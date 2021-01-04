@@ -26,6 +26,6 @@ bash install.sh
 
 ### Credits
 Alunperin mukana devaamassa:
-Aleksi Pietarinen
-Jaakko Pentinsaari
-Nikita Kallio
+- Aleksi Pietarinen
+- Jaakko Pentinsaari
+- Nikita Kallio
