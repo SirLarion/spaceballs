@@ -32,5 +32,6 @@ Alkuperäinen dev-tiimi:
 - Nikita Kallio
 - Miska Tammenpää
 
-Alkuperäinen repositorio:<br></br>
+Alkuperäinen repositorio:
+
 https://version.aalto.fi/gitlab/tammenm2/spaceballs/
